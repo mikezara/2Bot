@@ -160,5 +160,5 @@ async def boysitstimetologoff(ctx):
         await _2B.close()
 
 
-_2B.run('Mzc0MTYwNTUzMDg3NTk4NTky.DNdPsg.kL4PPzQ1UwQamrZtmJ47G3d-IN4')
+_2B.run('token')
 
