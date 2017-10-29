@@ -1,3 +1,4 @@
+# The proper one to use on bigboy servers
 import discord
 from discord.ext import commands
 import asyncio
